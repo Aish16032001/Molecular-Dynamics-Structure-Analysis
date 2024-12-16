@@ -24,5 +24,7 @@ This tool can also help to get better intial structure as it can identify atoms 
       
        *   Launch the script in the same directory using the XDATCAR file (obtained from MD calculation): For example, script.py MD_POSCAR,In this case, MD_POSCAR stands for the directory 
            that contains all of the Splitted POSCARs that were acquired via XDATCAR.  
-       
+ 
+# Conclusion 
+This Python script addresses a critical need in the field of molecular dynamics analysis by providing an efficient and user-friendly tool for frame extraction, bond length analysis, and structural optimization. By leveraging the powerful capabilities of pymatgen, this tool can help researchers uncover valuable insights from complex MD simulations and streamline their computational workflows.      
 
