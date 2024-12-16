@@ -22,6 +22,7 @@ This tool can also help to get better intial structure as it can identify atoms 
 # Technical Implementation
 
       * Install pymatgen library :  pip install pymatgen
+      
       * Launch the script in the same directory using the XDATCAR file (obtained from MD calculation): For example, script.py MD_POSCAR,In this case, MD_POSCAR stands for the directory that 
         contains all of the Splitted POSCARs that were acquired via XDATCAR.  
        
