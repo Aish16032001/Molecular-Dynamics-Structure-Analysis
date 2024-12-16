@@ -20,7 +20,6 @@ Molecular dynamics (MD) simulations in computational materials research can prod
 This tool can also help to get better intial structure as it can identify atoms that are excessively close to each other, potentially causing high forces in the system.By rearranging atoms which are close we can make structure converge.
 
 # Technical Implementation
-
        *   Install pymatgen library :  pip install pymatgen
       
        *   Launch the script in the same directory using the XDATCAR file (obtained from MD calculation): For example, script.py MD_POSCAR,In this case, MD_POSCAR stands for the directory 
