@@ -29,7 +29,7 @@ This tool can also help to get better intial structure as it can identify atoms 
        *   The user should indicate whether they are interested in distances greater than or less than a particular value
 
 <div style="position: relative; width: 100%; max-width: 800px; margin: auto; text-align: center;">
- <img src="./user.PNG" title="Input given by user"width: 100%; display: block;">
+ <img src="user.PNG" title="Input given by user"width: 100%; display: block;">
   
 
 # Output
