@@ -34,6 +34,12 @@ This tool can also help to get better intial structure as it can identify atoms 
 
 # Output
 
+       *  XDATCAR file is splitted into POSCAR file and located in All_POSCARS directory
+       *  POSCARS are extrcted in the directory called specific_A_B_Distances directory
+       *  Heatmaps are saved in the directory called Heatmaps_A_B_Distances directory
+       *  Overall summary of the result is written in the file called specific_distance_results.txt
+       
+
 # Conclusion 
 This Python script addresses a critical need in the field of molecular dynamics analysis by providing an efficient and user-friendly tool for frame extraction, bond length analysis, and structural optimization. By leveraging the powerful capabilities of pymatgen, this tool can help researchers uncover valuable insights from complex MD simulations and streamline their computational workflows.      
 
