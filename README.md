@@ -43,5 +43,8 @@ This tool can also help to get better intial structure as it can identify atoms 
        
 
 # Conclusion 
-This Python script addresses a critical need in the field of molecular dynamics analysis by providing an efficient and user-friendly tool for frame extraction, bond length analysis, and structural optimization. By leveraging the powerful capabilities of pymatgen, this tool can help researchers uncover valuable insights from complex MD simulations and streamline their computational workflows.      
+This Python script addresses a critical need in the field of molecular dynamics analysis by providing an efficient and user-friendly tool for frame extraction, bond length analysis, and structural optimization. By leveraging the powerful capabilities of pymatgen, this tool can help researchers uncover valuable insights from complex MD simulations and streamline their computational workflows.  
+
+
+This project is part of the course: https://github.com/szabgab/wis-python-course-2024-11
 
