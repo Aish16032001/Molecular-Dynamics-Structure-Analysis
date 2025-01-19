@@ -25,7 +25,8 @@ This tool can also help to get better intial structure as it can identify atoms 
 
 # How to run the code ?
        *   Launch the script in the same directory where XDATCAR file is placed and run the script using the syntax - python script.py  
-       *   
+       *   The user must specify the two atoms between which they want to measure the distance
+       *   The user should indicate whether they are interested in distances greater than or less than a particular value
 
 # Output
 
