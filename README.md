@@ -28,6 +28,12 @@ This tool can also help to get better intial structure as it can identify atoms 
        *   The user must specify the two atoms between which they want to measure the distance
        *   The user should indicate whether they are interested in distances greater than or less than a particular value
 
+<div style="position: relative; width: 100%; max-width: 800px; margin: auto; text-align: center;">
+ <img src="./user.PNG" alt="Atmosphere Background" style="width: 100%; display: block;">
+  
+  <img src="./user.png" alt="Input given by user" width="150" style="position: absolute; top: 20px; left: 50%; transform: translateX(-50%); border-radius: 50%; border: 3px solid white;">
+       
+
 # Output
 
 # Conclusion 
