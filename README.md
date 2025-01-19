@@ -22,6 +22,8 @@ This tool can also help to get better intial structure as it can identify atoms 
 # Technical Implementation
        *   Install pymatgen library :  pip install pymatgen
        *   Install Seaborn library :   pip install seaborn
+       *   Install matplotlib libraray : pip install matplotlib
+       *   other libiraries - Python version 3.1 or later : os, re, tkinter
 
 # How to run the code ?
        *   Launch the script in the same directory where XDATCAR file is placed and run the script using the syntax - python script.py  
